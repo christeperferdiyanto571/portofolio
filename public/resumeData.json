@@ -39,24 +39,30 @@
         "skillmessage":"Berikut adalah beberapa teknologi yang saya kuasai:",
         "education" : [
             {
-                "school": "Universitas / Institusi Anda",
-                "degree": "Jurusan / Program Studi",
-                "graduated": "Tahun Lulus",
-                "description" : "Deskripsi singkat mengenai pengalaman belajar Anda di sini."
+                "school": "Universitas Ahmad Dahlan",
+                "degree": "Sistem Informasi / Informatika",
+                "graduated": "Sekarang",
+                "description" : "Menempuh pendidikan tinggi bidang teknologi informasi."
             },
             {
-                "school": "Sekolah Menengah Atas",
-                "degree": "Jurusan (Misal: IPA / IPS / RPL)",
-                "graduated": "Tahun Lulus",
-                "description": "Deskripsi singkat tambahan (opsional)."
+                "school": "SMK Bunda Satria",
+                "degree": "TKJ / Rekayasa Perangkat Lunak",
+                "graduated": "Lulus",
+                "description": "Pendidikan kejuruan."
             }
         ],
         "work": [
             {
-                "company" : "Nama Perusahaan / Freelance",
-                "title" : "Posisi Pekerjaan (Misal: Web Developer)",
-                "years": "Tahun Mulai - Tahun Selesai",
-                "description": "Deskripsi singkat mengenai tanggung jawab dan pencapaian Anda."
+                "company" : "PT. Linimuda",
+                "title" : "Software Engineer",
+                "years": "April 2020 - February 2022",
+                "description": "Creating a website and maintenance"
+            },
+            {
+                "company": "My Skill Id",
+                "title": "Frontend Engineer",
+                "years": "February 2022 - present",
+                "description": "Creating a mobile application"
             }
         ],
         "skills": [
