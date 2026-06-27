@@ -3,8 +3,8 @@
         "name" : "CHRIS TEPER FERDIYANTO",
         "description": "I am a programmer",
         "image":"profilepic.jpg",
-        "github":"https://github.com/mutiarahmatun",
-        "project":"https://github.com/mutiarahmatun",
+        "github":"https://github.com/",
+        "project":"https://github.com/",
         "bio": "Ini adalah section biografi aku",
         "contactmessage":"Hello, here I am",
         "email": "myemail@gmail.com",
@@ -15,12 +15,12 @@
             "state":"West Java",
             "zip": "16024"
         },
-        "website": "https://github.com/mutiarahmatun",
-        "resumedownload":"https://github.com/mutiarahmatun",
+        "website": "https://github.com/",
+        "resumedownload":"https://github.com/",
         "social":[
           {
             "name": "facebook",
-            "url": "https://github.com/mutiarahmatun",
+            "url": "https://facebook.com/",
             "className": "fa fa-facebook"
           },
           {
@@ -30,17 +30,17 @@
           },
           {
             "name":"linkedin",
-            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "url":"https://www.linkedin.com/in/",
             "className":"fa fa-linkedin"
           },
           {
             "name":"instagram",
-            "url":"http://instagram.com/mutia.rahmatun",
+            "url":"http://instagram.com/",
             "className":"fa fa-instagram"
           },
           {
             "name":"github",
-            "url":"https://github.com/mutiarahmatun",
+            "url":"https://github.com/",
             "className":"fa fa-github"
           }
         ]
