@@ -92,26 +92,13 @@ jQuery(document).ready(function($) {
         "&contactMessage=" +
         contactMessage;
 
-      $.ajax({
-        type: "POST",
-        url: "inc/sendEmail.php",
-        data: data,
-        success: function(msg) {
-          // Message was sent
-          if (msg == "OK") {
-            $("#image-loader").fadeOut();
-            $("#message-warning").hide();
-            $("#contactForm").fadeOut();
-            $("#message-success").fadeIn();
-          }
-          // There was an error
-          else {
-            $("#image-loader").fadeOut();
-            $("#message-warning").html(msg);
-            $("#message-warning").fadeIn();
-          }
-        }
-      });
+      // Fake ajax response since there is no PHP backend
+      setTimeout(function() {
+        $("#image-loader").fadeOut();
+        $("#message-warning").hide();
+        $("#contactForm").fadeOut();
+        $("#message-success").fadeIn();
+      }, 1000);
       return false;
     });
   }, time);
