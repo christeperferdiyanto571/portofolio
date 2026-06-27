@@ -129,10 +129,10 @@
                 "url": "https://github.com/christeperferdiyanto571"
             },
             {
-                "title": "Portal Berita Online",
-                "category": "Website platform berita dan artikel",
-                "image": "02.jpg",
-                "url": "https://github.com/christeperferdiyanto571"
+                "title": "To-Do List App",
+                "category": "Aplikasi pencatat tugas harian (Vanilla JS)",
+                "image": "01.jpg",
+                "url": "/todo-list/index.html"
             }
         ]
     }
