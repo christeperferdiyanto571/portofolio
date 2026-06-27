@@ -40,15 +40,15 @@
         "education" : [
             {
                 "school": "Universitas Ahmad Dahlan",
-                "degree": "Sistem Informasi / Informatika",
-                "graduated": "Sekarang",
+                "degree": "Informatika",
+                "graduated": "2026",
                 "description" : "Menempuh pendidikan tinggi bidang teknologi informasi."
             },
             {
                 "school": "SMK Bunda Satria",
-                "degree": "TKJ / Rekayasa Perangkat Lunak",
-                "graduated": "Lulus",
-                "description": "Pendidikan kejuruan."
+                "degree": "TKRO Teknik Kendaraan Ringan Otomotif",
+                "graduated": "2022",
+                "description": "Pendidikan kejuruan otomotif."
             }
         ],
         "work": [
