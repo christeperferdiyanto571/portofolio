@@ -87,21 +87,39 @@
     "portfolio":{
         "projects": [
             {
-                "title": "Proyek Portofolio 1",
-                "category": "Deskripsi singkat mengenai proyek ini",
+                "title": "Sistem Manajemen Bengkel",
+                "category": "Sistem pendataan dan manajemen otomotif (TKRO)",
                 "image": "01.jpg",
                 "url": "https://github.com/christeperferdiyanto571"
             },
             {
-                "title": "Proyek Portofolio 2",
-                "category": "Deskripsi singkat mengenai proyek ini",
+                "title": "E-Commerce App",
+                "category": "Aplikasi e-commerce modern berbasis web",
                 "image": "02.jpg",
                 "url": "https://github.com/christeperferdiyanto571"
             },
             {
-                "title": "Proyek Portofolio 3",
-                "category": "Deskripsi singkat mengenai proyek ini",
+                "title": "Aplikasi Reservasi",
+                "category": "Sistem pemesanan online untuk travel",
                 "image": "03.jpg",
+                "url": "https://github.com/christeperferdiyanto571"
+            },
+            {
+                "title": "Data Analysis Dashboard",
+                "category": "Dashboard analisis dan pengolahan data penjualan",
+                "image": "04.jpg",
+                "url": "https://github.com/christeperferdiyanto571"
+            },
+            {
+                "title": "Company Profile Web",
+                "category": "Website profil perusahaan dan UMKM",
+                "image": "05.jpg",
+                "url": "https://github.com/christeperferdiyanto571"
+            },
+            {
+                "title": "Smart Inventory",
+                "category": "Sistem manajemen stok barang terintegrasi",
+                "image": "06.jpg",
                 "url": "https://github.com/christeperferdiyanto571"
             }
         ]
